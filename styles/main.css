@@ -1,0 +1,41 @@
+html{
+    background-color: rgb(27, 192, 129);
+}
+.page-top {
+    height: 4em;
+    background-position: top;
+}
+nav {
+    background-color: white;
+    font-size: 1.7em;
+    border: 0.125em solid black;
+}
+nav > b{
+    margin: 4em;
+}
+.ProfilePic{
+    padding-top: 5em;
+    padding-right: 10em;
+    padding-left: 10em;
+    padding-bottom: 5em;
+    height: 80%;
+    width: 50%; 
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 99%;
+}
+.flex-container{
+    display: flex;
+    width: 100vw;
+    height: 90vh; 
+    border: 0.125em solid black;
+}
+ .About-Me{
+    padding-left: 10em;
+    padding-top: 5em;
+}
+.About-Me > p{
+    border: 0.125em solid black;
+} 
